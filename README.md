@@ -1,2 +1,2 @@
-# PowerGBS
-PowerGBS is reactive 
+# Xstream
+streaming server
